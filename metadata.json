@@ -1,0 +1,8 @@
+{
+  "name": "Smart Attendance",
+  "description": "BLE-based automatic student attendance system with real-time beacon detection and session tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
